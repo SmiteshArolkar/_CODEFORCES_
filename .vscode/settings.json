@@ -8,6 +8,8 @@
         "xutility": "cpp",
         "xstring": "cpp",
         "random": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "locale": "cpp",
+        "xiosbase": "cpp"
     }
 }
