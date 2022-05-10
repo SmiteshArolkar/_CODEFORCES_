@@ -10,6 +10,7 @@
         "random": "cpp",
         "iostream": "cpp",
         "locale": "cpp",
-        "xiosbase": "cpp"
+        "xiosbase": "cpp",
+        "vector": "cpp"
     }
 }
